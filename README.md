@@ -66,3 +66,4 @@ The calculated Cohen's $h = 0.52$ between baseline fiction and weaponized ambigu
 ---
 
 Gostaria que eu formatasse esse texto diretamente nas células de código/markdown intercaladas para você apenas dar "Ctrl+C / Ctrl+V" no ambiente do Kaggle?
+Link of Kaggle notebook:https://www.kaggle.com/code/paulotuppy/cognitive-mirage-gemini-2-5-pro-evaluation
